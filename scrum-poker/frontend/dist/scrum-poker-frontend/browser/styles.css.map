@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/styles.css"],
-  "sourcesContent": ["/* Global Styles */\r\n*, *::before, *::after {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  margin: 0;\r\n  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\r\n  background: #f5f6fa;\r\n  color: #333;\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n}\r\n\r\nh1, h2, h3, h4 {\r\n  margin-top: 0;\r\n}\r\n\r\na {\r\n  color: #667eea;\r\n  text-decoration: none;\r\n}\r\n\r\ninput:focus {\r\n  outline: none;\r\n}\r\n\r\n::selection {\r\n  background: #667eea;\r\n  color: white;\r\n}\r\n"],
-  "mappings": ";AACA;AAAG,CAAC;AAAU,CAAC;AACb,cAAY;AACd;AAEA;AACE,UAAQ;AACR;AAAA,IAAa,OAAO;AAAA,IAAE,aAAa;AAAA,IAAE,kBAAkB;AAAA,IAAE,UAAU;AAAA,IAAE,MAAM;AAAA,IAAE;AAC7E,cAAY;AACZ,SAAO;AACP,0BAAwB;AACxB,2BAAyB;AAC3B;AAEA;AAAI;AAAI;AAAI;AACV,cAAY;AACd;AAEA;AACE,SAAO;AACP,mBAAiB;AACnB;AAEA,KAAK;AACH,WAAS;AACX;AAEA;AACE,cAAY;AACZ,SAAO;AACT;",
-  "names": []
-}
